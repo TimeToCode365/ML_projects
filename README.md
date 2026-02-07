@@ -32,9 +32,9 @@ This repository showcases applied data science and machine learning projects. Ea
 
 ## **How to Navigate This Repository**
 
-1. Each task is in a separate folder named with a number prefix and descriptive name, e.g., `01_Dataset_Creation_Kaggle`.  
+1. Each task is in a separate folder named with a descriptive name, e.g., `Dataset_Creation_Kaggle`.  
 2. Inside each folder, you will find:  
    - A Jupyter notebook implementing the task.  
    - The dataset used.
    - A `README.md` explaining the task, workflow, and insights.  
-3. Start by exploring the notebooks in order from `01_` to `06_` to follow a progressive learning path.
+3. Start by exploring the notebooks in order to follow a progressive learning path.
