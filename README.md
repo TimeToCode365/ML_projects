@@ -27,6 +27,10 @@ This repository showcases applied data science and machine learning projects. Ea
 6. **Decision Tree & Fairness Analysis**  
    - Built ID3 decision tree and investigated model biases.  
    - Skills: Decision trees, fairness metrics, ethical ML.
+  
+7. **KNN with Feature Ablation Study**  
+   - Trained a KNN classifier and analyzed feature importance via ablation.  
+   - Skills: KNN classification, feature scaling, model evaluation, feature analysis.
 
 > More projects will be added soon...
 
