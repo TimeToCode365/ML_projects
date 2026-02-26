@@ -32,6 +32,10 @@ This repository showcases applied data science and machine learning projects. Ea
    - Trained a KNN classifier and analyzed feature importance via ablation.  
    - Skills: KNN classification, feature scaling, model evaluation, feature analysis.
 
+8. **Evaluation Metrics - Pick the Best Performer**  
+   - Evaluated and compared multiple pretrained ML models to identify the best performer using a test dataset.  
+   - Skills: Loading models with `joblib`, predicting on test data, classification and regression metrics (accuracy, precision, recall, F1, MSE, RMSE,R²), critical model comparison, preprocessing consistency, exception handling.
+
 > More projects will be added soon...
 
 ## **How to Navigate This Repository**
