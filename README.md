@@ -1,6 +1,6 @@
 # ML Projects
 
-This repository showcases applied data science and machine learning projects. Each project demonstrates key skills such as data cleaning, model building, anomaly detection, feature analysis, fairness assessment, unsupervised learning, and model evaluation.
+This repository showcases applied data science and machine learning projects. Each project demonstrates key skills such as data cleaning, model building, anomaly detection, feature analysis, fairness assessment, unsupervised learning, model evaluation, etc.
 
 ## Projects
 
@@ -40,6 +40,12 @@ This repository showcases applied data science and machine learning projects. Ea
    - Applied unsupervised learning to group handwritten digit images based on visual similarity.  
    - Flattened MNIST images into feature vectors, applied K-Means clustering, compared clusters with true labels, and visualized cluster centroids.  
    - Skills: Unsupervised learning, K-Means clustering, image preprocessing, feature extraction, cluster evaluation, data visualization.
+
+10. **Naive Bayes Text Classification from Scratch**  
+   - Implemented a Multinomial Naive Bayes classifier from scratch using NumPy and compared it with Scikit-learn's implementation for spam email detection.  
+   - Applied Bayes' theorem, conditional probability, word likelihood estimation, prior probability calculation, and Laplace smoothing for text classification.  
+   - Evaluated models using accuracy, precision, recall, F1-score, and confusion matrix.  
+   - Skills: Naive Bayes classification, probabilistic modeling, text preprocessing, feature extraction, model evaluation, NumPy implementation, Scikit-learn comparison.
 
 > More projects will be added soon...
 
