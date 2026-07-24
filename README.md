@@ -47,6 +47,12 @@ This repository showcases applied data science and machine learning projects. Ea
    - Evaluated models using accuracy, precision, recall, F1-score, and confusion matrix.  
    - Skills: Naive Bayes classification, probabilistic modeling, text preprocessing, feature extraction, model evaluation, NumPy implementation, Scikit-learn comparison.
 
+11. **Hyperparameter Tuning of SVM using Mobile Price Classification Dataset**  
+   - Built an SVM classifier to predict mobile phone price categories and optimized model performance using different hyperparameter tuning techniques.  
+   - Applied Grid Search, Random Search, and Bayesian Optimization with cross-validation, and compared their performance and execution time.  
+   - Evaluated the tuned models using accuracy, precision, recall, F1-score, and confusion matrix.  
+   - Skills: Support Vector Machine, hyperparameter tuning, cross-validation, model evaluation, feature scaling, optimization techniques.
+
 > More projects will be added soon...
 
 ## **How to Navigate This Repository**
